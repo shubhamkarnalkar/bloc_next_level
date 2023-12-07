@@ -1,6 +1,4 @@
 import 'package:bloc_next_level/features/cart/ui/cart.dart';
-import 'package:bloc_next_level/features/home/models/home_product_data_model.dart';
-import 'package:bloc_next_level/features/home/ui/product_tile_widget.dart';
 import 'package:bloc_next_level/features/wishlist/ui/wishlist.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

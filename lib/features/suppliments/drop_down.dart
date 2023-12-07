@@ -105,7 +105,7 @@ class _FlutterFlowDropDownState<T> extends State<FlutterFlowDropDown<T>> {
       ),
     );
     if (widget.height != null || widget.width != null) {
-      return Container(
+      return SizedBox(
         width: widget.width,
         height: widget.height,
         child: childWidget,
